@@ -6,7 +6,7 @@ Sure! Here's a well-formatted README file for your Chainlit application with Azu
 ## Overview
 This repository contains a Chainlit application deployed on Google Cloud Run with Single Sign-On (SSO) integration using Azure Active Directory (Azure AD). Additionally, the project is integrated with FOSSA for license compliance checks triggered via CLI.
 
-## Prerequisites
+## Prerequisites 
 - Google Cloud SDK
 - Azure CLI
 - Docker
